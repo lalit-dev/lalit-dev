@@ -1,7 +1,7 @@
 
 
 
-<img src="https://github.com/pr2tik1/pr2tik1/blob/master/IMAGE-NAME">
+<img src="https://www.canva.com/design/DAECTn3UQz8/gqU0Mafo0wZnrrZVcdQZoA/view?utm_content=DAECTn3UQz8&utm_campaign=designshare&utm_medium=link&utm_source=sharebutton">
 
 ### Hi 👋
 A Full Stack Developer with 2+ years of experience in IT, Internet and Consumer Services Industry. A personable, communicative developer who specializes in MEAN and MERN stack web developer
