@@ -1,7 +1,7 @@
 
 
 
-<img src="https://github.com/lalit-dev/lalit-dev/blob/master/lalit-banner.png">
+<img src="https://github.com/lalit-dev/lalit-dev/blob/master/lalit-banner2.png">
 
 ### Hi 👋
 A Full Stack Developer with 2+ years of experience in IT, Internet and Consumer Services Industry. A personable, communicative developer who specializes in MEAN and MERN stack web developer
